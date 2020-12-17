@@ -1,0 +1,5 @@
+OBJECT_BASE 223161.btg
+OBJECT PALU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.129400 68.877005 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.090649 68.873262 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -166.109367 68.876409 0.1 0.00

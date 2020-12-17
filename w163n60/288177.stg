@@ -1,0 +1,4 @@
+OBJECT_BASE 288177.btg
+OBJECT PFKA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -162.523587 60.874778 8.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -162.526032 60.869266 10.4 0.00

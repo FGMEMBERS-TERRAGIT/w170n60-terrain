@@ -1,0 +1,4 @@
+OBJECT_BASE 222985.btg
+OBJECT PASH.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.081906 66.252071 5.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -166.078391 66.253471 5.6 0.00

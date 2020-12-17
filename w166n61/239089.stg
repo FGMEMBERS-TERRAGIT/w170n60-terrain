@@ -1,0 +1,13 @@
+OBJECT_BASE 239089.btg
+OBJECT PACM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -165.578868 61.846490 3.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -165.565642 61.842544 3.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -165.578831 61.846175 3.1 0.00
+OBJECT_SIGN {@R,^l,@Y}28{@@,@R}28{@Y,^r} -165.579142 61.845128 3.0 135.00 2
+OBJECT_SIGN {@Y}10{@R,^r,@@,@Y,^l,@R}10 -165.579740 61.845236 2.9 180.00 2
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -165.584124 61.848010 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -165.585878 61.847644 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -165.587631 61.847277 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -165.585493 61.847233 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -165.583740 61.847600 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -165.581986 61.847967 -9999.0 0.00

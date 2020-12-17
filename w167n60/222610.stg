@@ -1,0 +1,5 @@
+OBJECT_BASE 222610.btg
+OBJECT PAMY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.261602 60.374939 12.6 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -166.278891 60.370711 15.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -166.263258 60.375587 12.8 0.00

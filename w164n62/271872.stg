@@ -1,0 +1,4 @@
+OBJECT_BASE 271872.btg
+OBJECT PAMO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -163.689129 62.090750 84.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -163.676560 62.098836 89.4 0.00

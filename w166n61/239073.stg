@@ -1,0 +1,5 @@
+OBJECT_BASE 239073.btg
+OBJECT PAVA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -165.586499 61.537441 20.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -165.581246 61.530248 19.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -165.582941 61.534027 17.6 0.00
